@@ -149,7 +149,8 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## 📞 Contact
 
-💼 **Project Owner:** Your Name  
+💼 **Project Owner:** Abdullah Grewal
+🔗 **Medium:** [MediSynapse on Medium](https://buzzgrewal.medium.com/medisynapse-ai-powered-clinical-query-answering-medical-text-generation-4e3b0daf6f35)  
 🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/abdullahgrewal)  
 📂 **GitHub Repository:** [MediSynapse](https://github.com/buzzgrewal/MediSynapse)  
 📧 **Email:** buzzgrewal@gmail.com  
