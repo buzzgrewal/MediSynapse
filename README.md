@@ -15,11 +15,17 @@
 ## 🌟 Key Features
 
 ✅ **Clinical Query Understanding** – Supports natural language clinical queries with intelligent retrieval and response generation.
+
 ✅ **Hybrid Retrieval System** – Uses **BM25** for keyword-based search and **dense retrieval with embeddings** for semantic understanding.
+
 ✅ **Context-Aware Generation** – The generative model leverages retrieved documents to generate factually correct and coherent answers.
+
 ✅ **Intuitive Gradio Interface** – Enables seamless interaction with the AI for medical professionals and researchers.
+
 ✅ **Multi-Language Support** – Queries can be processed in different languages, enhancing accessibility.
+
 ✅ **Ethical AI & Data Privacy** – Ensures responsible handling of clinical data with strict adherence to privacy norms.
+
 
 ---
 
