@@ -3,6 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buzzgrewal/medisynapse/blob/main/medisynapse.ipynb)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)  
+[![MIMIC-IV Dataset](https://img.shields.io/badge/Dataset-MIMIC--IV-blue)](https://physionet.org/content/mimiciv/2.0/)  
+[![RAG System](https://img.shields.io/badge/RAG-Powered%20by%20BM25%20&%20LLM-purple)](https://github.com/buzzgrewal/MediSynapse)  
+
+Replace `yourusername`, `yourgradiolink.com`, and `yourgithubrepo.com` with actual links. Let me know if you need more! 🚀
+
 🚀 **MediSynapse** is an advanced **Retrieval-Augmented Generation (RAG)** system designed to provide precise and context-aware answers to clinical queries. Built on top of the **MIMIC-IV-Ext Direct** dataset, it integrates a powerful retrieval system with an open-source **LLM** to generate informative medical summaries, enhancing decision-making in healthcare. 
 
 ---
