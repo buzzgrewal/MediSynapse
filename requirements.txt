@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+gradio
+faiss-cpu
+sentence-transformers
+rarfile 
+datasets 
+rank_bm25 
+bitsandbytes 
+accelerate
+transformers 
+langchain 
+python-dateutil 
+tqdm
